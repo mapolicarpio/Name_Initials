@@ -23,6 +23,7 @@ vertex(300, 135);
 vertex(325, 200); 
 endShape(CLOSE); 
 //
+
 noFill();
 beginShape();
 curveVertex(555, 300);
